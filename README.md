@@ -73,7 +73,7 @@ Then in browser, go to
 * [Maven 3.5.3](https://maven.apache.org/) - Dependency Management
 * [PostGreSQL](https://www.postgresql.org/) - PostGreSQL
 * [Spring Boot 2.0.1](https://projects.spring.io/spring-boot/) - The Back-End
-* [Spring Tool Suite 3.9.3]() - Used with Eclipse to setup initial application 
+* [Spring Tool Suite 3.9.3](https://spring.io/tools/sts) - Used with Eclipse to setup initial application 
 
 May no longer being used<br />
 * [Angular 5](https://angular.io/) - Angular 5 for Front-End/UI
